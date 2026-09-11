@@ -18,7 +18,7 @@ os.environ["ARROW_DEFAULT_MEMORY_POOL"] = "system"
 import pandas as pd
 import streamlit as st
 
-import aegisultra_enginev2 as aegis
+import aegisultra_enginev3 as aegis
 
 
 # Always synchronize the in-memory engine module
